@@ -1,0 +1,6 @@
+Birinci satır.
+İkinci satır.
+Üçüncü satır.
+Dördüncü satır.
+Beşinci satır.
+new line
