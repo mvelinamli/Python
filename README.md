@@ -1,1 +1,2 @@
-Python öğrenme sürecim boyunca oluşturduğum dökümanlar ve yaptığım uygulamalar, hepsi içerde. Devamı gelecek..
+TR_Python öğrenme sürecim boyunca oluşturduğum dökümanlar ve yaptığım uygulamalar, hepsi içerde. Devamı gelecek..
+EN_Throughout my journey of learning Python, I've compiled documents and created applications, all inside here. More to come...
